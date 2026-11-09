@@ -25,8 +25,11 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
+    "basedpyright>=1.40.2",
     "ipykernel>=7.4.0",
     "jupyterlab>=4.6.4",
+    "jupyterlab-lsp>=5.3.0",
+    "python-lsp-server>=1.15.0",
 ]
 
 [tool.pyright]
