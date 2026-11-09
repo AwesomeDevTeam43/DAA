@@ -27,3 +27,8 @@ dev = [
     "ipykernel>=7.4.0",
     "jupyterlab>=4.6.4",
 ]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+typeCheckingMode = "basic"
