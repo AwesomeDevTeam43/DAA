@@ -4,7 +4,7 @@ Trabalho desenvolvido por:
 
 - Gonçalo Oliveira Araújo // 63968
 - João Manuel Freitas Ribeiro // 63980
-- Tiago Mighuel Dias Miranda // 64034
+- Tiago Miguel Dias Miranda // 64034
 
 
 # Enviroment Setup
